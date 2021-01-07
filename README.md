@@ -13,9 +13,10 @@ To accomplish this the following steps have been executed:
 
 ## Data set information
 
-The dataset was downloaded from kaggle competition <a href="https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python</a>.
+The dataset was downloaded from kaggle competition <a href="https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python">Mall Customer Segmentation Data</a>.
 The dataset contains 200 records, each for one customer. The features available in the dataset are as following:
   
+
 - `CustomerID` - unique identifier of a customer
 - `Genre` - gender of the customer
 - `Age` - age of the customer
